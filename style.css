@@ -1,0 +1,41 @@
+#main{
+    width: 90%;
+    margin:2em auto;
+    background-color: grey;
+  }
+  
+  #title{
+    font-size: 25px;
+    font-weight: 700;
+  }
+  
+  #img-div{
+    background-color: white;
+  }
+  
+  #image{
+    width: 70%;
+    height: 90%;
+    
+  }
+  
+  #img-caption{
+    margin: 10px auto;
+    font-size: 16px;
+  
+  }
+  
+  #tribute-info{
+   font-size: 16px; 
+  }
+  
+  ul{
+    margin: 2em auto;
+    max-width: 400px;
+    padding: 30%; 
+  }
+  
+  h2{
+    font-weight:600;
+    
+  }
